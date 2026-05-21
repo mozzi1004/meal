@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 씨마스고등학교 급식",
+  "description": "씨마스고등학교 식단 정보, 주간 식단표, 학생별 영양 계산 및 알레르기 관리 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
